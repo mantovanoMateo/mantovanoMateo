@@ -1,36 +1,42 @@
 # Hi, I'm Mateo! 👋
 
-👨‍💻 I am a passionate Full Stack developer dedicated to the art of software development. I hold a Technical University degree in Programming from the National Technological University, based in Mar del Plata, Argentina.
+**Integrations & AI Engineer** · Automation / Forward Deployed · Remote (UTC-3, Mar del Plata 🇦🇷)
 
+I own partner & merchant API integrations end-to-end — and build the AI-assisted automation that makes the operational work behind them disappear.
 
 ## 🚀 About Me
 
-- 💼 I have been working in software development for over two years, gaining experience in building microservices using Java SpringBoot while focusing on innovative personal projects
-- 📝 My experience spans across multiple technologies, including C, Java, Spring Boot, Angular, React, JavaScript, TypeScript, Node.js, and Nest.js. I have executed personal and professional projects that have honed my skills in crafting understandable, efficient, and effective code.
-- 🌱 Continuously seeking learning and improvement, I believe that software development is an art that requires ongoing education.
+- 🔌 **Integrations Engineer at [Thanx](https://www.thanx.com/)** — I lead technical developer support across the Consumer, Loyalty, and Partner REST APIs: certifying new partner & POS/kiosk integrations from sandbox validation through production, and diagnosing issues down to the source-code and log level.
+- 🤖 **AI & automation** — I design AI-assisted developer-support systems with **Claude / the Anthropic SDK, the Model Context Protocol (MCP), and agentic workflows** that automate triage, diagnosis, certification, and documentation at scale.
+- 🧩 **Backend-strong, full-stack capable** — I ship production code across Python, TypeScript/Node, Ruby on Rails, and Java/Spring Boot.
+- 🌱 Always learning — I treat software as a craft that rewards continuous improvement.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,nestjs,py,html,css,angular,react,mysql,mongodb,aws,git)](https://skillicons.dev)
+## 🛠️ What I work on
+
+- **API integration & troubleshooting** — partner certification, sandbox→production validation, POS/kiosk onboarding
+- **AI-assisted workflow design** — Claude-powered commands & agents that automate developer-support and integration work
+- **Process & workflow automation** — turning one-off fixes into reusable tooling
+- **Log & data analysis** — Datadog, Snowflake, source-tracing
+
+## 🧰 Tech Stack
+
+**AI & Automation**
+
+Claude · Anthropic SDK · Model Context Protocol (MCP) · AI agents & agentic workflows · Prompt engineering
+
+**Languages & Frameworks**
+
+[![Skills](https://skillicons.dev/icons?i=py,ts,js,nodejs,nestjs,rails,java,spring,angular,react,nextjs,tailwind)](https://skillicons.dev)
+
+
+**Data, Cloud & Tooling**
+
+PostgreSQL · MySQL · MongoDB · Snowflake · AWS (EC2, S3, SES) · Docker · Datadog · LaunchDarkly · Git/GitHub
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/mateo-francesco-mantovano-34a925227/?locale=en_US)
-- Take a look to my portfolio in [MantovanoMateoPortfolio](https://mantovano-mateo-portfolio.vercel.app/aboutMe)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/mateo-francesco-mantovano-34a925227/)
+- 🌐 See my [Portfolio](https://mateo-mantovano-portfolio.vercel.app/)
+- 📫 Reach me at mantovanomateo@gmail.com
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-<!--
-**mantovanoMateo/mantovanoMateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by — let's build reliable integrations and useful AI. 🚀
